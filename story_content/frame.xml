@@ -22,7 +22,7 @@
           </option>
           <option name="sidebar_enabled" value="true">
             <options>
-              <option name="sidebarpos" value="left" />
+              <option name="sidebarpos" value="right" />
               <option name="closed" value="false" />
             </options>
           </option>
@@ -62,8 +62,8 @@
           <option name="volume" value="true" />
           <option name="seekbar" value="true">
             <options>
-              <option name="readonly" value="true" />
-              <option name="readonlyOnce" value="true" />
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
             </options>
           </option>
           <option name="pauseplay" value="true" />
@@ -1613,10 +1613,6 @@
             <slidelink slideid="_player.5a56HlQ6rQw.5poWGqV9Rkg" displaytext="Perspective Taking" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.68FcdyeEgeB" displaytext="Video" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.6Xi6yaGvgml" displaytext="(Q1) Which of the following are components of empathy?" expand="false" type="slide" />
-            <slidelink slideid="_player.5a56HlQ6rQw.6DMY0JXNYnu" displaytext="(Q2) Empathy is another word for sympathy" expand="false" type="slide" />
-            <slidelink slideid="_player.5a56HlQ6rQw.6ikSjLC6xSo" displaytext="(Q3) Being empathetic puts you in a vulnerable position" expand="false" type="slide" />
-            <slidelink slideid="_player.5a56HlQ6rQw.5yookAxEUMT" displaytext="(Q4) The “right” response can make a person feel better" expand="false" type="slide" />
-            <slidelink slideid="_player.5a56HlQ6rQw.5q73DUuTggd" displaytext="(Q5) Empathetic responses usually begin with “at least.”" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5YiyneFT7Xr" displaytext="The Steps of LEAD" expand="true" type="slide">
