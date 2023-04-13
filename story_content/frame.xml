@@ -22,7 +22,7 @@
           </option>
           <option name="sidebar_enabled" value="true">
             <options>
-              <option name="sidebarpos" value="right" />
+              <option name="sidebarpos" value="left" />
               <option name="closed" value="false" />
             </options>
           </option>
