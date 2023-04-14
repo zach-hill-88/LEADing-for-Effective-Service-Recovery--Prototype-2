@@ -1617,6 +1617,7 @@
         </slidelink>
         <slidelink slideid="_player.5YiyneFT7Xr" displaytext="The Steps of LEAD" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.5YiyneFT7Xr.6Z8wz97HNqw" displaytext="The Steps of LEAD" expand="false" type="slide" />
             <slidelink slideid="_player.6XuR5KPjFND" displaytext="LISTEN" expand="true" type="slide">
               <links>
                 <slidelink slideid="_player.6XuR5KPjFND.6k6mOQZwfMC" displaytext="Listen 1" expand="false" type="slide" />
@@ -1645,7 +1646,6 @@
         </slidelink>
         <slidelink slideid="_player.6dyynIHzmov" displaytext="LEADing in Action" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5YiyneFT7Xr.6Z8wz97HNqw" displaytext="The Steps of LEAD" expand="false" type="slide" />
             <slidelink slideid="_player.6dyynIHzmov.5Z3ub5Xik2c" displaytext="LEAD In Action!" expand="false" type="slide" />
           </links>
         </slidelink>
